@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 ## Introduction
-In this project we will evaluate several popular machine learning algorithms such as Logistic Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest to determine which model performs the best in predicting heart disease. The accuracy of each model will be compared, and the results will be presented in an accuracy comparison graph. The main objective of this project is to develop an accurate and reliable machine learning model for heart disease prediction that can assist medical professionals in making timely and accurate diagnoses.
+In this project we will evaluate several popular machine learning algorithms such as Logistic Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest  & ANN using both Categorical classification & Binary classification to determine which model performs the best in predicting heart disease. The accuracy of each model will be compared, and the results will be presented in an accuracy comparison graph. The main objective of this project is to develop an accurate and reliable machine learning model for heart disease prediction that can assist medical professionals in making timely and accurate diagnoses.
 
 ## **Data info:**
 The dataset is already provided in the repository (here).
@@ -55,10 +55,15 @@ Confusion Matrix
 Plotting the confusion matrix
 ![35](https://user-images.githubusercontent.com/84839136/231213636-598b5654-82ab-4fa8-b550-3fab071c0b12.png)
 
+## **Models Used:**
+![WhatsApp Image 2023-04-11 at 9 09 17 PM](https://user-images.githubusercontent.com/84839136/231220246-42802035-239f-4058-8243-e8f723a63344.jpeg)
+![WhatsApp Image 2023-04-11 at 9 09 47 PM](https://user-images.githubusercontent.com/84839136/231220309-a7a50687-5567-4039-afb9-5e902ff053b7.jpeg)
+![WhatsApp Image 2023-04-11 at 9 10 10 PM](https://user-images.githubusercontent.com/84839136/231220365-e6787a5f-7737-40b0-978f-df18d9f0674e.jpeg)
+
 ## **Conclusion:**
 In conclusion, we have evaluated multiple machine learning models such as Logistic
-Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest
+Regression, SVC, Decision Tree, KNN, Xgboost, GaussianNB, and Random Forest & ANN using both Categorical classification & Binary classification
 for the prediction of heart disease. Our results showed that the Logistic Regression
-model achieved the highest accuracy (86.89%), outperforming other models. The
+model achieved the highest accuracy (57.8%), outperforming other models & in ANN, Binary classification achieved more accuracy in comparison to the Categorical classification. The
 accuracy comparison graph showed a clear difference in the performance of these
 models, with Logistic Regression being the most suitable algorithm for this problem.
