@@ -56,6 +56,9 @@ Plotting the confusion matrix
 ![35](https://user-images.githubusercontent.com/84839136/231213636-598b5654-82ab-4fa8-b550-3fab071c0b12.png)
 
 ## **Models Used:**
+![WhatsApp Image 2023-04-11 at 9 09 17 PM](https://user-images.githubusercontent.com/84839136/231220246-42802035-239f-4058-8243-e8f723a63344.jpeg)
+![WhatsApp Image 2023-04-11 at 9 09 47 PM](https://user-images.githubusercontent.com/84839136/231220309-a7a50687-5567-4039-afb9-5e902ff053b7.jpeg)
+![WhatsApp Image 2023-04-11 at 9 10 10 PM](https://user-images.githubusercontent.com/84839136/231220365-e6787a5f-7737-40b0-978f-df18d9f0674e.jpeg)
 
 ## **Conclusion:**
 In conclusion, we have evaluated multiple machine learning models such as Logistic
